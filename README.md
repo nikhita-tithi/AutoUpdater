@@ -22,8 +22,8 @@ This Go application demonstrates a self-updating mechanism that continuously che
 
 1. **Clone the Repository**:
     ```sh
-    git clone <repository-url>
-    cd <repository-directory>
+    git clone https://github.com/nikhita-tithi/AutoUpdater
+    cd AutoUpdater
     ```
 
 2. **Build the Application**:
